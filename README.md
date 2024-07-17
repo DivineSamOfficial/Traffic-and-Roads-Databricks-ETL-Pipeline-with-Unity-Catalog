@@ -13,7 +13,7 @@ The project is designed with a multi-layer architecture to handle raw data inges
 3. **Silver Layer:** Additional transformations are applied, including aggregations and time-based transformations.
 4. **Gold Layer:** Final transformations for quantifiable metrics and load time tracking.
 
-![Architecture]([path-to-image](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/SysArch.jpg))
+![Architecture](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/SysArch.jpg)
 
 ## Visulazationn with Power BI
 ![Report]()
