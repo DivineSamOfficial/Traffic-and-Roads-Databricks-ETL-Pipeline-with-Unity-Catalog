@@ -15,13 +15,15 @@ The project is designed with a multi-layer architecture to handle raw data inges
 
 ![Architecture](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/SysArch.jpg)
 
-## Visulazationn with Power BI
-![Report]()
+## Visualization with Power BI
+![Report](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/Report.png)
 
 ## Databricks ETL Flow
 ![ETL Flow](path-to-image)
 
-
+## Continuous Intergration Continuous Deployment
+![CI](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/CI.png)
+![CD](https://github.com/DivineSamOfficial/Traffic-and-Roads-Databricks-ETL-Pipeline-with-Unity-Catalog/blob/main/Assets/CD.png)
 ## Key Features
 
 ### Dynamic Schema Creation
